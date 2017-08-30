@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 6bd142698ff811542a2b3fe383850dbc
+timeCreated: 1503866227
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AngelAzulCompleto_0
+    21300002: AngelAzulCompleto_1
+    21300004: AngelAzulCompleto_2
+    21300006: AngelAzulCompleto_3
+    21300008: AngelAzulCompleto_4
+    21300010: AngelAzulCompleto_5
+    21300012: AngelAzulCompleto_6
+    21300014: AngelAzulCompleto_7
+    21300016: AngelAzulCompleto_8
+    21300018: AngelAzulCompleto_9
+    21300020: AngelAzulCompleto_10
+    21300022: AngelAzulCompleto_11
+    21300024: AngelAzulCompleto_12
+    21300026: AngelAzulCompleto_13
+    21300028: AngelAzulCompleto_14
+    21300030: AngelAzulCompleto_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2000
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngelAzulCompleto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3988
+        width: 2167
+        height: 2138
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_1
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3988
+        width: 2177
+        height: 2138
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_2
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 3988
+        width: 2154
+        height: 2138
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_3
+      rect:
+        serializedVersion: 2
+        x: 7197
+        y: 3988
+        width: 2155
+        height: 2138
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_4
+      rect:
+        serializedVersion: 2
+        x: 9573
+        y: 3988
+        width: 2209
+        height: 2138
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_5
+      rect:
+        serializedVersion: 2
+        x: 11976
+        y: 3988
+        width: 2169
+        height: 2138
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 2169
+        height: 2179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_7
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1587
+        width: 2210
+        height: 2179
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_8
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 1587
+        width: 2210
+        height: 2180
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_9
+      rect:
+        serializedVersion: 2
+        x: 7169
+        y: 1587
+        width: 2210
+        height: 2180
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_10
+      rect:
+        serializedVersion: 2
+        x: 9573
+        y: 1587
+        width: 2210
+        height: 2180
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_11
+      rect:
+        serializedVersion: 2
+        x: 11976
+        y: 1587
+        width: 2169
+        height: 2180
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 937
+        height: 593
+      alignment: 9
+      pivot: {x: -1, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_13
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 0
+        width: 939
+        height: 593
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_14
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 0
+        width: 939
+        height: 593
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngelAzulCompleto_15
+      rect:
+        serializedVersion: 2
+        x: 7805
+        y: 0
+        width: 938
+        height: 593
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

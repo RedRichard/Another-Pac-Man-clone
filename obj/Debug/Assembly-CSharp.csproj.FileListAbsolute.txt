@@ -1,0 +1,374 @@
+C:\Users\gomri\Desktop\Pac\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Desktop\Pac\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Desktop\Pac\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Desktop\Pac-14-06-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Desktop\Pac-14-06-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-14-06-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-16-06-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Desktop\Pac-16-06-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Desktop\Pac-16-06-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-22-06-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Desktop\Pac-22-06-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Desktop\Pac-22-06-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Desktop\Pac-10-07-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Desktop\Pac-10-07-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\nunit.framework.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\nunit.framework.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-10\obj\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\nunit.framework.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEditor.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Mono.Cecil.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Unity.DataContract.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEditor.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\nunit.framework.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Proyectos\Pac-18-08-17\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Proyectos\Pac-18-08-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Proyectos\Pac-18-08-17\obj\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-18-08-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Miguel\Documents\Sodvi\Paman\Nueva carpeta\Pac-18-08-17-2\obj\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-19-18-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Proyectos\Pac-19-18-17\obj\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\nunit.framework.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEditor.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Mono.Cecil.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Unity.DataContract.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEditor.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\nunit.framework.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Proyectos\Pac-19-18-17\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Proyectos\Pac-19-18-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\nunit.framework.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\nunit.framework.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\nunit.framework.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\nunit.framework.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\obj\Debug\Assembly-CSharp.dll
+C:\Users\gomri\Documents\ProyectosUnity\Pac-22-08-17_2\obj\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\nunit.framework.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEditor.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Mono.Cecil.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Unity.DataContract.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEditor.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\nunit.framework.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Proyectos\Pac-22-08-17_3\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Proyectos\Pac-22-08-17_3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Proyectos\Pac-22-08-17_3\obj\Debug\Assembly-CSharp.dll
+E:\Proyectos\Pac-22-08-17_3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\obj\Debug\Assembly-CSharp.dll
+C:\Users\Miembros Sodvi\Documents\Macz\Pac-Beta\obj\Debug\Assembly-CSharp.pdb

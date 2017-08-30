@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 6aa91ec708912b64db60a850fe0ec05e
+timeCreated: 1493142568
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PerPrin_0
+    21300002: PerPrin_1
+    21300004: PerPrin_2
+    21300006: PerPrin_3
+    21300008: PerPrin_4
+    21300010: PerPrin_5
+    21300012: PerPrin_6
+    21300014: PerPrin_7
+    21300016: PerPrin_8
+    21300018: PerPrin_9
+    21300020: PerPrin_10
+    21300022: PerPrin_11
+    21300024: PerPrin_12
+    21300026: PerPrin_13
+    21300028: PerPrin_14
+    21300030: PerPrin_15
+    21300032: PerPrin_16
+    21300034: PerPrin_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 550
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PerPrin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1852
+        width: 416
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1854
+        width: 452
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1803
+        width: 450
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1794
+        width: 451
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_4
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1777
+        width: 476
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 476
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1142
+        width: 476
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1142
+        width: 481
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_8
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1143
+        width: 504
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_9
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1143
+        width: 533
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 608
+        width: 505
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 601
+        width: 481
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_12
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 603
+        width: 473
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_13
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 598
+        width: 463
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_14
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 603
+        width: 462
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 251
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 9
+        width: 182
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PerPrin_17
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 46
+        width: 192
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
